@@ -2,7 +2,8 @@
 This is an end-to-end real-time data engineering pipeline that simulates U.S. e-commerce orders, streams them through Azure, processes them in Databricks using PySpark, and visualizes the results in Power BI. It follows the classic Bronze → Silver → Gold (Medallion Architecture).
 Pipeline flow:
 
-<img width="831" height="403" alt="image" src="https://github.com/user-attachments/assets/c66ff632-ecf5-4e20-b9dd-81d1047000ee" />
+<img width="883" height="447" alt="image" src="https://github.com/user-attachments/assets/9a75ab52-81de-4c90-b56f-bbcf16cb7232" />
+
 
 
 
